@@ -1,5 +1,5 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=audiomack.svg&icon_color=%23E7E7E7&title=ysf&edge_flat=false" align="center"/></a>  -->
-<br>
+
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
  <!--- <img src="https://komarev.com/ghpvc/?username=ArslannYusuf&&style=plastics&&color=red" align="right"/> </p> --> 
@@ -20,7 +20,7 @@
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+page%7C;+It's+good+to+see+you) -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey%7C;I'm+Yusuf+Arslan%7C;I+am+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I'm+Yusuf+Arslan%7C;+Software+Automation+Engineer+%7C+Turkey%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
   
 <!-- <h5 align="left">Skills: Java | Python | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h5>  -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
@@ -46,6 +46,13 @@
 
 
 </div>
+
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>  
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArslannYusuf&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+
 
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -86,10 +93,7 @@ jobs:
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>  -->
  
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>  
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArslannYusuf&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 
 

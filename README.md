@@ -23,13 +23,13 @@
 
  <div align="center"> 
   
-  <a href="https://www.linkedin.com/in/yusufarslann/" target="_blank">
+  <a href="https://www.linkedin.com/in/yusufarslann/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <a href = "mailto:yeed060118@gmail.com">
+  <a href = "mailto:yeed060118@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
-  <a href="https://discord.com/channels/lion_yusuf" target="_blank">
+  <a href="https://discord.com/channels/lion_yusuf" target="_blank" style="text-decoration: none;">
    <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
   </a>
 </div>

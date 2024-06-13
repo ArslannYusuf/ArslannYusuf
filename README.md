@@ -1,28 +1,12 @@
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=audiomack.svg&icon_color=%23E7E7E7&title=ysf&edge_flat=false" align="center"/></a>  -->
-
-
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <!--- <img src="https://komarev.com/ghpvc/?username=ArslannYusuf&&style=plastics&&color=red" align="right"/> </p> --> 
 <br>
-<!--
-  <h2 align="center"> 
-</h2> --> 
-
-
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/> 
 
+ <h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
 
-<h2 dir="auto"><a id="user-content-necktie-about-me" class="anchor" aria-hidden="true" href="#necktie-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-
-<!--### </path></svg></a> About Me ✅ </h2> -->
-
-
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+my+page%7C;+It's+good+to+see+you) -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I'm+Yusuf+Arslan%7C;+Software+Automation+Engineer+%7C+Turkey%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+Java+for+projects%7C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I'm+Yusuf+Arslan%7C;+I'm+Frontend+Developer+%7C+Turkey%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+JavaScript+for+my+projects%7C)
   
-<!-- <h5 align="left">Skills: Java | Python | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h5>  -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 <h2 align="center">
@@ -60,42 +44,11 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ArslannYusuf&theme=dark&background=000000"/>
 </p>
 
-<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArslannYusuf&theme=dark&background=000000)](https://git.io/streak-stats) -->
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
-
-<!-- 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
--->
-
-<!--
-   ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)   -->
 
 
 

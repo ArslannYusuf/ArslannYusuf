@@ -37,7 +37,7 @@
 
 <!-- https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg -->
 <br>
-
+<p>
  <div align="center"> 
   
   <a href="https://www.linkedin.com/in/yusufarslann/" target="_blank" style="text-decoration: none;">

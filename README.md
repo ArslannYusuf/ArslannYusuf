@@ -7,7 +7,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I'm+Yusuf+Arslan%7C;+I'm+Frontend+Developer+%7C+Turkey%7C;I'm+sharing+my+projects+in+here%7C;I+usually+using+JavaScript+for+my+projects%7C)
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <hr>
 <h2 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools</b>
@@ -36,9 +35,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p> </a>
 
 <!--  renkli slider hr -->
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  -->
+<hr>
 
-<!-- https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg -->
 
 
  <div align="center"> 

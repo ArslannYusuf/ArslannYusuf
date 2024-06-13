@@ -32,7 +32,8 @@
 https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original-wordmark.svg
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/ArslannYusuf/ArslannYusuf/assets/109699153/b8d1fd49-7035-46cf-abe4-0a061ddd5c9e)
+" alt="aws" width="40" height="40"/> </a>
 
 <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
 

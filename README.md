@@ -1,11 +1,10 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="100"/> 
-  <img src="https://media.giphy.com/media/eXSUQG9CA6uV2Kr0Qy/giphy.gif" width="100"/> 
+  <img src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/QmpllNeyriYf8mAz41/giphy.gif" width="100"/> 
   <img src="https://media.giphy.com/media/Qs1HLJYCcNgUP1Zd5Z/giphy.gif" width="100"/> 
   <img src="https://media.giphy.com/media/7VbylXpV9aM2wR0uxj/giphy.gif" width="100"/> 
-  <img src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" width="100"/> 
+  <img src="https://media.giphy.com/media/eXSUQG9CA6uV2Kr0Qy/giphy.gif" width="100"/>
 
 
   

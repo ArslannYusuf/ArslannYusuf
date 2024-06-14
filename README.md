@@ -1,3 +1,5 @@
+<p align="center"><img src="https://media.giphy.com/media/Qs1HLJYCcNgUP1Zd5Z/giphy.gif" padding="0" magin="0"/>
+  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 <br>
 <div id="header" align="center">
